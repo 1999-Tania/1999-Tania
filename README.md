@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1999-Tania
+- 👋 Hi, I’m Tania Ghosh.
 - 👀 I’m interested in Full stack web development.
 - 🌱 I’m currently passed Master of Computer Application.
 - 💞️ I’m looking to collaborate on software development.
